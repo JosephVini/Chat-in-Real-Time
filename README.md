@@ -15,4 +15,4 @@ O projeto tem como objetivo a pratica dessas tecnologias.
 
 ## Chat Online
 
-![alt text](image.png)
+![alt text](./img/image.png)
